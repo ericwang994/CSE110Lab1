@@ -20,7 +20,7 @@ In order to better end my college life, I made some decisions for myself:
 - More participation in extracurricular activities, improve my own skills
 - Keep a positive attitude
 
-The link to [README.md](./README.md) file.
+The Relative link to [README.md](./README.md) file.
 
 The link to [My Lab1](https://github.com/ericwang994/CSE110Lab1).
 
