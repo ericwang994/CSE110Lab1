@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### Hi, I am Hang Wang! :wink:
 
-You can use the [editor on GitHub](https://github.com/ericwang994/CSE110Lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+I am
+- [X] currently in China
+- [X] in **CS** major
+- [X] last year in UCSD
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am facing a ***big*** situation:
+> graduatation
 
-```markdown
-Syntax highlighted code block
+I'm not sure if I'm ready to step into society and break away from being a student.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+We all know that **society** is:
 ```
+realistic
+tense
+```
+In order to better end my college life, I made some decisions for myself:
+- Finish the rest of my studies as usual
+- More participation in extracurricular activities, improve my own skills
+- Keep a positive attitude
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The link to [README.md](./README.md) file.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ericwang994/CSE110Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The link to [My Lab1](https://github.com/ericwang994/CSE110Lab1).
